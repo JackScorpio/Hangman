@@ -57,3 +57,8 @@ p {
 .button:hover {
   background: #5f3a87;
 }
+
+.mobileinput {
+  color: rgb(202, 128, 186);
+  font-size: 0.8rem;
+}
